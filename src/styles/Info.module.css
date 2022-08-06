@@ -1,0 +1,22 @@
+.info {
+  background-color: white;
+  margin-top: 20px;
+  padding: 20px;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.info strong {
+  color: black;
+}
+
+.info div {
+  margin-left: 50px;
+}
+
+.info li {
+  color: #999999;
+  margin-top: 8px;
+}
